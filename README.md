@@ -71,9 +71,15 @@ src/
 - AsyncStorage
 - Axios
 
+## Video Link :-
+
+https://drive.google.com/file/d/1Ole1tOPINtZl1LGg5x-F8VPAhAC1MqVv/view?usp=sharing
+
+
+
 ## API Endpoint
 
 The app uses the following API endpoint for job listings:
 ```
 https://testapi.getlokalapp.com/common/jobs?page=1
-``` 
+```
